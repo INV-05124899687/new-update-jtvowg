@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · yUtgI04s -->
-## Notification 1/2
-Round: Round 1
-To: aipeter13@outlook.com, aipeter13@gmail.com
-At: 2026-09-16 11:49:53
-Id: yUtgI04s
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: nawab.siddiqui@aol.com, billdesk.invoice45@gmail.com
+At: 2026-09-16 11:50:11
+Id: SAY0Ryb4
